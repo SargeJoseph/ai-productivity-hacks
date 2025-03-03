@@ -49,12 +49,12 @@ export default function PromptGenerator() {
           <button className="btn btn-secondary" onClick={handleCopy}>Copy to Clipboard</button>
           <div className="click-to-tweet">
             <a
-              href={`https://twitter.com/intent/tweet?text=This AI prompt is saving me hours of work! ${encodeURIComponent(prompt)} via @aiproductivityhacks`}
+              href={`https://x.com/intent/tweet?text=This AI prompt is saving me hours of work! ${encodeURIComponent(prompt)} via _aiproductivity`}
               target="_blank"
               rel="noopener noreferrer"
               className="tweet-btn"
             >
-              Tweet This Prompt
+              Post This Prompt on X
             </a>
           </div>
         </div>
