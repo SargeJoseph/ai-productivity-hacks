@@ -6,13 +6,13 @@
 }
 
 :root {
-  --primary-color: #2563eb;
-  --secondary-color: #4b5563;
+  --primary-color: #ffd64f;
+  --secondary-color: #fc5778;
   --accent-color: #f97316;
-  --background-color: #f9fafb;
-  --text-color: #1f2937;
-  --card-color: #ffffff;
-  --border-color: #e5e7eb;
+  --background-color: #e5f3ff;  
+  --text-color: #212121;
+  --card-color: #f5f6f7;
+  --border-color: #dddedf;
   --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
