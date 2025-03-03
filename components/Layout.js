@@ -37,8 +37,8 @@ export default function Layout({ children }) {
           <div className="footer-section">
             <h3>Connect</h3>
             <ul className="social-links">
-              <li><a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">Twitter</a></li>
-              <li><a href="https://reddit.com/" target="_blank" rel="noopener noreferrer">Reddit</a></li>
+              <li><a href="https://x.com/_aiproductivity" target="_blank" rel="noopener noreferrer">X</a></li>
+
             </ul>
           </div>
         </div>
