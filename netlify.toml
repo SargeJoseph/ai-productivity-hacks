@@ -1,18 +1,11 @@
-* Create netlify.toml configuration file */
-// netlify.toml
-// This file tells Netlify how to build and deploy your Next.js app
 
-/*
 [build]
   command = "npm run build"
   publish = ".next"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
-*/
 
-// package.json
-/*
 {
   "name": "ai-productivity-hacks",
   "version": "0.1.0",
@@ -29,14 +22,11 @@
     "react-dom": "18.2.0"
   }
 }
-*/
 
-// next.config.js
-/*
 module.exports = {
   reactStrictMode: true,
   images: {
     domains: ['images.unsplash.com'],
   },
 }
-*/
+
