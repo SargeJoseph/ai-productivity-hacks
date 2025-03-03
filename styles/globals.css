@@ -88,7 +88,7 @@ button, .btn {
 }
 
 .btn-secondary:hover {
-  background-color: #374151;
+  background-color: #8962b2;
   text-decoration: none;
 }
 
@@ -98,7 +98,7 @@ button, .btn {
 }
 
 .btn-accent:hover {
-  background-color: #ea580c;
+  background-color: #8962b2;
   text-decoration: none;
 }
 
@@ -197,7 +197,7 @@ footer {
 }
 
 .footer-section a {
-  color: #e5e7eb;
+  color: #8962b2;
   display: inline-block;
   margin-bottom: 0.5rem;
 }
@@ -213,7 +213,7 @@ footer {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(to right, #2563eb, #3b82f6);
+  background: linear-gradient(to right, #8962b2, #c58dff);
   color: white;
   text-align: center;
   padding: 6rem 2rem;
@@ -324,7 +324,7 @@ footer {
 }
 
 .prompt-result {
-  background-color: #f3f4f6;
+  background-color: #c58dff;
   padding: 1.5rem;
   border-radius: 8px;
   margin-top: 1.5rem;
@@ -357,7 +357,7 @@ footer {
 
 /* Newsletter */
 .newsletter {
-  background-color: #f3f4f6;
+  background-color: #c58dff;
   border-radius: 12px;
   margin: 4rem auto;
 }
@@ -452,7 +452,7 @@ footer {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: #f3f4f6;
+  background-color: #c58dff;
   color: var(--secondary-color);
   transition: all 0.3s ease;
 }
